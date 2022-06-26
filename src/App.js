@@ -40,7 +40,6 @@ function App() {
       <Alert alert={alert} />
       <div className="container my-3">
         <TextForm showAlert={showAlert} heading="Try Textify - Word Counter | Character Counter | Convert Text" mode={mode} />
-        {/* <About mode={mode} /> */}
       </div>
     </>
   );
